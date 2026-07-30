@@ -1,0 +1,1 @@
+String parOuimpar(int a) => a % 2 == 0 ? 'par' : 'impar';
