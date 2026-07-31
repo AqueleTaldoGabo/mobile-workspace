@@ -1,5 +1,0 @@
-{
-    "nixEnvPicker.envFile": "${workspaceFolder}${/}flake.nix",
-    "nixEnvPicker.terminalAutoActivate": true,
-    "nixEnvPicker.terminalActivateCommand": "nix develop"
-}

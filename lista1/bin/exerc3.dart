@@ -1,4 +1,4 @@
-import 'package:exerc1/exerc3.dart' as exerc3;
+import 'package:lista1/exerc3.dart' as exerc3;
 import 'dart:io';
 
 void main(List<String> arguments) {
