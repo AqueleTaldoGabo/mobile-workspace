@@ -3,4 +3,4 @@ void printaImpares(){
     ehImpar(i);
   }
 }
-void ehImpar(a) => a % 2 != 0 ? print(a) : null;
+void ehImpar(int a) => a % 2 != 0 ? print(a) : null;
