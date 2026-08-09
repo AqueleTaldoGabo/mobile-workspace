@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:lista2/frutas.dart' as frutas;
 import 'dart:io';
 

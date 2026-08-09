@@ -1,0 +1,1 @@
+List<int> listaPares(List<int> numeros) => numeros.where((i) => i%2 == 0).toList();
