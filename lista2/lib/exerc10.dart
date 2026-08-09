@@ -1,9 +1,9 @@
 enum Pessoa{
-  Carlos("Carlos", 17),
-  Gabriel("Gabriel", 18),
-  Luis("Luis", 20),
-  Tiago("Tiago", 27),
-  Christian("Christian", 14);
+  carlos("Carlos", 17),
+  gabriel("Gabriel", 18),
+  luis("Luis", 20),
+  tiago("Tiago", 27),
+  christian("Christian", 14);
 
   final String nome;
   final int idade;
