@@ -1,0 +1,7 @@
+import 'package:lista3/pessoa.dart' as pessoa;
+
+void main(List<String> arguments) {
+  pessoa.Pessoa pessoa1 = pessoa.Pessoa(nome: "Carlos", idade: 10);
+  pessoa1.apresentar();
+
+}
