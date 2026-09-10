@@ -1,0 +1,8 @@
+flutter clean
+flutter pub get
+flutter run
+
+r (atualizar)
+R (nao usar/ recompila)
+
+ctrl + shift + f (identa sozinho)

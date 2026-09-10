@@ -1,0 +1,2 @@
+https://github.com/AqueleTaldoGabo/mobile-workspace/tree/main/lista3/bin
+https://github.com/AqueleTaldoGabo/mobile-workspace/tree/main/lista3/lib
