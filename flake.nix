@@ -21,7 +21,8 @@
             android-studio 
             jdk21
             fvm
-          ];
+	    nodejs_22            
+	  ];
           GRADLE_OPTS = "-Dorg.gradle.project.buildDir=build";
           shellHook = ''
             export ANDROID_HOME="$HOME/Android/Sdk"
